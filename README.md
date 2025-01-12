@@ -1,6 +1,11 @@
 # CIFAR-10 CNN Classifier
 
 A PyTorch implementation of a Convolutional Neural Network (CNN) for image classification on the CIFAR-10 dataset. The model uses a custom architecture with dilated convolutions and depth-wise separable convolutions to learn hierarchical features effectively.
+![random_images](https://github.com/user-attachments/assets/687bf76a-ca46-4d2a-a226-abf7c539c66a)
+
+![class_samples](https://github.com/user-attachments/assets/d51f6649-e50c-4d53-a5e4-ba75e46a1094)
+
+
 
 ## Features
 
@@ -72,6 +77,9 @@ The training process includes:
 - Best model checkpointing
 - Real-time metrics logging
 - Training visualization plots
+
+![training_metrics](https://github.com/user-attachments/assets/9a3f5410-b83c-4c0d-8d60-14bb6ddbbad1)
+
 
 ## Model Performance Tracking
 
